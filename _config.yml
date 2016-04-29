@@ -1,0 +1,28 @@
+name: DJKFOUR
+favicon: null
+layout_spectrum: 0.25364826433360577
+typography_spectrum: 0.2973270497750491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7043979009613395
+  lightness: 0.2601667905692011
+  saturation: 0.9210255814250559
+  rhythmicContrast: 0.07132743042893708
+purpose: []
