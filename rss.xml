@@ -4,7 +4,7 @@
         <description><![CDATA[DJKFOUR]]></description>
         <link>https://thegrid.ai/djkfour/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 20:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 20:19:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/djkfour/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Awake by DJKFOUR]]></title>
@@ -12,13 +12,6 @@
             <link>https://soundcloud.com/djkfour/awake</link>
             <guid isPermaLink="false">bc0a9664-31f6-4410-980e-13e9ed6119f8</guid>
             <pubDate>Fri, 29 Apr 2016 20:16:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<h1>Welcome</h1>]]></description>
-            <link>https://thegrid.ai/djkfour/welcome/index.html</link>
-            <guid isPermaLink="false">b756f4d8-a89c-4d63-9020-a4756db0ebdd</guid>
-            <pubDate>Fri, 29 Apr 2016 20:15:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
